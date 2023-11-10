@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+*  {
+  font-family: 'Lobster', sans-serif;
+  font-size: 30px;
+  padding: auto;
+  border: 0;
+}
+ .text-left{
+  margin-top: 90px;
+  margin-left: 100px;
+  font-size: 80px;
+  text-align: center;
+} 
+.img-fluid{
+   margin-left: 550px;
+   margin-top: -230px 
+}
+.text-justify{
+  margin-top: 20px;
+  margin-left: 100px;
+  font-size: 40px;
+  font-style: oblique;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 0;
+  position: relative;
+}
+.shadow-lg {
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 200px;
+  text-align: justify;
+  background-color: #ffeddc;
+}
+
+.shadow-none{
+  text-align: center;
+}
+.mt-0{
+  text-align: center;
+}
+.mt-1{
+  text-align: justify;
+}
+.shadow-lg{
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.card-deck{
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.card-title{
+text-align: center;
+font-size: 30px;
+
+}
+.card-text{
+text-align: justify;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
+.card{
+  background-color: #ffeddc;
+
+}
+.shadow-lg-1{
+  margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.container {
+  align-items: center;
+  height: 60vh;
+  border-radius: 20px;
+  background-color:#CEEEFF;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.img-fante, p {
+  display: inline-block;
+
+}
+#tex{
+  
+ font-size:20px; 
+ text-align: justify;
+margin-top: 4rem;
+ width: 40vw;
+ margin-left: 30px;
+}
+.teimg{
+  margin-top: 1.5rem;
+}
+#back-to-top {
+  position: fixed;
+  bottom: 80px;
+  right: 50px;
+  background-color: #ffc2c2;
+    border-radius: 15px;
+    color:#000000;
+    font-size: 12px;
+    padding: 10px 50px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 170px;
+    align-self: center;
+    border: none;
+    margin-top: 1rem;
+}
+#botao{ text-align: center}
+.botaoali{
+    width: 450px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #ffc2c2;
+    border-radius: 50px;
+    background-color: #ff8e24;
+    font-size: 18px;
+}
